@@ -1,0 +1,7 @@
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\bin\Release\ArchiveUploader.exe.config
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\bin\Release\ArchiveUploader.exe
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\bin\Release\ArchiveUploader.pdb
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\obj\Release\ArchiveUploader.csproj.CoreCompileInputs.cache
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\obj\Release\ArchiveUploader.exe
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\obj\Release\ArchiveUploader.pdb
+C:\Users\M-PC\source\repos\ArchiveUploader\ArchiveUploader\obj\Release\ArchiveUploader.csprojAssemblyReference.cache
